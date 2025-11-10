@@ -13,7 +13,7 @@ This README explains **two core concepts** you’ll use a lot in computing:
 
 Pseudocode is a way to write the **steps of a solution** in simple, structured language without worrying about real code syntax.
 
-- Not tied to any programming language (NOT a codding language).
+- Not tied to any programming language (NOT a coding language).
 - Focuses on **logic** instead of details like `;`, `{}`, etc.
 - Used to plan the algorithm **before** writing actual code.
 
@@ -37,9 +37,12 @@ ELSE
 END IF
 
 END
+```
+
 ---
 
 ## 2. Interaction
+
 ### 2.1 What is Interaction?
 
 In computing, interaction is the **step-by-step** **communication** between a user and a system (like a website or app).
@@ -97,4 +100,3 @@ You usually:
 1. Design the **interaction flow** (what the user sees and does).
 2. Write **pseudocode** for the logic behind each step.
 3. Then convert the pseudocode into real code (Python, Java, etc.).
-```
