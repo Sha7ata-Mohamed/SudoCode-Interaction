@@ -1,0 +1,17 @@
+/* CSS: pseudo-elements */
+.intro-text::first-letter {
+    font-size: 200%;
+    font-weight: bold;
+}
+
+.intro-text::after {
+    content: " ★";
+}
+
+footer {
+    position: fixed;
+    bottom: 15px;
+    left: 0;
+    width: 100%;
+    text-align: center;
+}

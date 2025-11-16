@@ -1,0 +1,9 @@
+/* CSS: same selector, different source order */
+.message {
+    color: red;
+}
+
+/* Same specificity, comes later → wins */
+.message {
+    color: orange;
+}

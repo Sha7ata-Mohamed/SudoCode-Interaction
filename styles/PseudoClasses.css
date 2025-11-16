@@ -1,0 +1,24 @@
+/* CSS: pseudo-classes */
+.btn-link:link {
+  color: blue;
+}
+
+.btn-link:visited {
+  color: purple;
+}
+
+.btn-link:hover {
+  text-decoration: underline;
+}
+
+.btn-link:active {
+  color: red;
+}
+
+footer {
+  position: fixed;
+  bottom: 15px;
+  left: 0;
+  width: 100%;
+  text-align: center;
+}

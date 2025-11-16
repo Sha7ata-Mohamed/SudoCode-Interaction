@@ -1,0 +1,11 @@
+/* CSS: inheritance */
+.content {
+    color: #0d4988;
+    /* children inherit this color */
+    font-family: Arial, sans-serif;
+}
+
+.content h1 {
+    font-weight: 700;
+    /* overrides only the weight, color is inherited */
+}

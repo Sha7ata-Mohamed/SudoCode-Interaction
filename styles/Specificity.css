@@ -1,0 +1,15 @@
+/* CSS: specificity battle */
+p {
+    color: black;
+    /* specificity: 1 */
+}
+
+.note {
+    color: blue;
+    /* specificity: 10 */
+}
+
+#intro {
+    color: green;
+    /* specificity: 100 → this one wins */
+}
