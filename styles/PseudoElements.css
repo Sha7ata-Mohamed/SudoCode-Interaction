@@ -8,6 +8,14 @@
     content: " ★";
 }
 
+
+.intro-text {
+    text-align: center;
+    padding-top: 15rem;
+    font-size: 2.1rem;
+}
+
+
 footer {
     position: fixed;
     bottom: 15px;
