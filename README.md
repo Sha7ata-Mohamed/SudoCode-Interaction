@@ -2,7 +2,7 @@
 
 This README explains **two core concepts** you’ll use a lot in computing:
 
-- **Pseudocode** → how the **programer thinks** (logic in plain language).
+- **Pseudocode** → how the **program thinks** (logic in plain language).
 - **Interaction** → how the user and the system **talk to each other** (steps of using the system).
 
 ---
