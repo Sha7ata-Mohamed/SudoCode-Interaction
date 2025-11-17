@@ -15,9 +15,38 @@
 
 
 footer {
-  position: fixed;
-  bottom: 15px;
-  left: 0;
-  width: 100%;
-  text-align: center;
+    position: fixed;
+    bottom: 15px;
+    left: 0;
+    width: 100%;
+    text-align: center;
 }
+
+
+
+/* Some CSS properties are inherited by default:
+
+font-family
+
+color
+
+line-height
+
+text-align
+
+letter-spacing
+
+*/
+
+/*
+    Not inherited:
+    margin
+
+    padding
+
+    border
+
+    background-color
+
+    width / height
+*/
