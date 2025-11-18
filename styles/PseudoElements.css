@@ -5,16 +5,17 @@
 }
 
 .intro-text::first-line {
-    color: red;
+    color: blue;
 }
 
 .intro-text::after {
     content: "★";
 }
 
-.intro-text::before{
-    content: "";
+.intro-text::before {
+    content: "★";
 }
+
 .intro-text {
     text-align: center;
     padding-top: 15rem;

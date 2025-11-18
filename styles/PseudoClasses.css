@@ -70,7 +70,7 @@ input:invalid {
 
 /* Structural Pseudo-Classes */
 
-li:first-child {
+li:nth-child(even) {
   color: red;
 }
 
